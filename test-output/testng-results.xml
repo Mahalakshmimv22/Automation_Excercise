@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T22:18:11 IST" name="Default suite" finished-at="2024-02-21T22:18:32 IST" duration-ms="21311">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T22:18:11 IST" name="Default test" finished-at="2024-02-21T22:18:32 IST" duration-ms="21311">
+      <class name="Scenarios.Sc2">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Scenarios.Sc2@66f57048]" started-at="2024-02-21T22:18:11 IST" name="beforetest" finished-at="2024-02-21T22:18:28 IST" duration-ms="17212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test()[pri:0, instance:Scenarios.Sc2@66f57048]" started-at="2024-02-21T22:18:28 IST" name="test" finished-at="2024-02-21T22:18:32 IST" duration-ms="4030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Scenarios.Sc2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
